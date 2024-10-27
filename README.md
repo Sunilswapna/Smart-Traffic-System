@@ -96,7 +96,7 @@ Follow these steps to clone the project repository and run the web application o
 
 ### Step 1: Clone the Project
 ```bash
-git clone https://github.com/Sunilswapna/Smart-Traffic-System
+git clone https://github.com/Sunilswapna/Smart-Traffic-System-main
 ```
 ### Step 2: Navigate to the Project Directory
 ```bash
