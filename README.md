@@ -60,11 +60,10 @@ Pytorch, Torchvision, Ultralytics, OpenCV, Numpy, Streamlit, Git
 └── .gitignore
 
 
+---
 
-
-<br>
-
-# Jakarta Road Defects Prediction
+#
+## Jakarta Road Defects Prediction
 
 This project focuses on improving road safety and efficiency through advanced techniques for vehicle classification, traffic density management, and pothole detection. Key modules address vehicle categorization, traffic density classification, and pothole object detection, contributing to overall road management and maintenance.
 
