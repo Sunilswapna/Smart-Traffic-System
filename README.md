@@ -1,4 +1,4 @@
-#Smart Traffic System
+# Smart Traffic System
 
 ## Project Links
 1. [Streamlit Webapp](https://omdena-jakarta-traffic-system.streamlit.app/)
