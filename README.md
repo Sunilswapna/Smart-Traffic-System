@@ -62,7 +62,7 @@ Pytorch, Torchvision, Ultralytics, OpenCV, Numpy, Streamlit, Git
 
 
 
-
+<br>
 
 # Jakarta Road Defects Prediction
 
@@ -106,4 +106,26 @@ Follow these steps to clone the project repository and run the web application o
 
 ```bash
 git clone https://github.com/OmdenaAI/jakarta-indonesia-predicting-road-defects
+Step 2: Navigate to the Project Directory
+bash
+Copy code
+cd jakarta-indonesia-predicting-road-defects/webapp
+Step 3: Create a Virtual Environment and Install Dependencies
+On Windows:
 
+bash
+Copy code
+python -m venv venv
+source venv/Scripts/activate
+pip install -r requirements.txt
+On macOS/Linux:
+
+bash
+Copy code
+python -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+Step 4: Run the Web Application
+bash
+Copy code
+streamlit run Introduction.py
